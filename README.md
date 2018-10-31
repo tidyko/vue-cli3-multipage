@@ -15,6 +15,16 @@ npm run serve
 npm run build
 ```
 
+### Compiles and minifies for development
+```
+npm run build:dev
+```
+
+### Compiles and minifies for local
+```
+npm run build:local
+```
+
 ### Lints and fixes files
 ```
 npm run lint
